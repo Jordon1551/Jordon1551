@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordon Li
-- 👀 I’m interested in learning as much as I can about software engineering, A.I and Computer Security 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learning as much as I can about software engineering, A.I, Computer Security, Web Development most things tech really
+- 🌱 I’m currently looking into Tech Stacks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 07375 036537 or jordonli.w@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/jordon-li-842598196
